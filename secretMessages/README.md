@@ -1,4 +1,4 @@
-#Secret Messages
+# Secret Messages
 
 Professor Potter, a punning pedantic, practices puzzling her students. She has left a secret message, of unknown length, encoded in file p3.dat for you to unravel. The setup is simple: each line of the file contains one char and one nonnegative integer. The key to reading the message is organizing the characters in the proper order. The integer indicates the position of the character within the message.
 
