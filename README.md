@@ -1,4 +1,4 @@
-# secretMessages
+# Secret Messages
 
 Decodes a message hidden in a file given by the user
 
