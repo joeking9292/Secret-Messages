@@ -21,4 +21,4 @@ Unravel and display the message
 Offer to do it again on another file
 You should check to see that the file exists and contains some data. While debugging your program you may wish to use a shorter file (i.e. the example above). Also note that some of the characters in the message will be blank spaces or punctuation. They will appear in the same format as above.
 
-This assignment was written and assignment by Professor Kevin Lundeen at Seattle University.
+This assignment was assigned by Professor Kevin Lundeen at Seattle University.
